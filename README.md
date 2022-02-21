@@ -1,16 +1,38 @@
+![mqdefault](https://user-images.githubusercontent.com/12293602/154951559-f2d9b515-909e-4117-803b-fd6497893a2f.png)
+
+
+
+![](https://komarev.com/ghpvc/?username=mynkbarnwal&color=blue) ![](https://img.shields.io/badge/Age-29-blue) ![](https://img.shields.io/badge/Focus-Swift,objc-blue) ![](https://img.shields.io/badge/Lives-India-blue) ![](https://img.shields.io/badge/Languages-English%20%26%20Hindi-blue)
+
 ### Hi there 👋
 
-<!--
-**mynkbarnwal/mynkbarnwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me 🙇🏻
+### I'm ios developer and a tech enthusiast! 👨🏻‍💻
+- 💁 I am a senior ios developer with 9 years experience 
+- 🧑‍🎓 I'm a Computer Science graduate 
+- 👨‍🍳 One of the founding member of [Synchsoft HQ](https://synchsofthq.com)
+- 👦 Pronouns : He/Him
+- 🤩 Fun fact : I am a programmer I have no life 🤣🤣🤣🤣
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Statistical Data :-
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=mynkbarnwal&show_icons=true&locale=en&layout=compact)
+
+
+![](https://github-readme-stats.vercel.app/api?username=mynkbarnwal&show_icons=true&locale=en)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=mynkbarnwal)
+
+<!--![](https://github-profile-trophy.vercel.app/?username=mynkbarnwal&theme=dracula&no-bg=true&row=1) -->
+
+### Connect with me 🤝
+
+[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/mynkbarnwal)](https://www.facebook.com/mynkbarnwal) [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mynkbarnwal/)](https://www.instagram.com/mynkbarnwal/) [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mynkbarnwal/)](https://twitter.com/mynkbarnwal) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mynkbarnwal/)](https://www.linkedin.com/in/mynkbarnwal/)
+
+
+### Languages and tools
+
+![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![](https://img.shields.io/badge/Objc-FA7343?style=for-the-badge&logo=objc&logoColor=white)
+![](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
