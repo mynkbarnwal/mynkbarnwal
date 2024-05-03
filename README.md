@@ -11,7 +11,6 @@
 ### I'm ios developer and a tech enthusiast! 👨🏻‍💻
 - 💁 I am a senior ios developer with 9 years experience 
 - 🧑‍🎓 I'm a Computer Science graduate 
-- 👨‍🍳 One of the founding member of [Synchsoft HQ](https://synchsofthq.com)
 - 👦 Pronouns : He/Him
 - 🤩 Fun fact : I am a programmer I have no life 🤣🤣🤣🤣
 
@@ -19,12 +18,16 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=mynkbarnwal&show_icons=true&locale=en&layout=compact)
 
-
 ![](https://github-readme-stats.vercel.app/api?username=mynkbarnwal&show_icons=true&locale=en)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mynkbarnwal)
 
 <!--![](https://github-profile-trophy.vercel.app/?username=mynkbarnwal&theme=dracula&no-bg=true&row=1) -->
+
+### Live App Links
+![](https://apps.apple.com/in/app/peerpicks/id6450222076)
+
+
 
 ### Connect with me 🤝
 
