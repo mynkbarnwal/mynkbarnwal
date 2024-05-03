@@ -9,7 +9,7 @@
 
 ## About Me 🙇🏻
 ### I'm ios developer and a tech enthusiast! 👨🏻‍💻
-- 💁 I am a senior ios developer with 9 years experience 
+- 💁 I am a senior ios developer with 10 years experience 
 - 🧑‍🎓 I'm a Computer Science graduate 
 - 👦 Pronouns : He/Him
 - 🤩 Fun fact : I am a programmer I have no life 🤣🤣🤣🤣
