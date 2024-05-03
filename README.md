@@ -25,7 +25,7 @@
 <!--![](https://github-profile-trophy.vercel.app/?username=mynkbarnwal&theme=dracula&no-bg=true&row=1) -->
 
 ### Live App Links
-![](https://apps.apple.com/in/app/peerpicks/id6450222076)
+[I'm an inline-style link](https://apps.apple.com/in/app/peerpicks/id6450222076)
 
 
 
