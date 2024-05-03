@@ -2,7 +2,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=mynkbarnwal&color=blue) ![](https://img.shields.io/badge/Age-29-blue) ![](https://img.shields.io/badge/Focus-Swift,objc-blue) ![](https://img.shields.io/badge/Lives-India-blue) ![](https://img.shields.io/badge/Languages-English%20%26%20Hindi-blue)
+![](https://komarev.com/ghpvc/?username=mynkbarnwal&color=blue) ![](https://img.shields.io/badge/Age-34-blue) ![](https://img.shields.io/badge/Focus-Swift,objc-blue) ![](https://img.shields.io/badge/Lives-India-blue) ![](https://img.shields.io/badge/Languages-Hindi%20%26%20English-blue)
 
 ### Hi there 👋
 
