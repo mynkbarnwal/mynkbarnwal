@@ -34,12 +34,14 @@ Senior Mobile & Full-stack Engineer with **13+ years** of experience building, s
 
 ## Websites
 
-- [PirtTrip](https://pirttrip.com): search and compare group trips, packages and deals (Nuxt, Supabase)
-- [IASS](https://iass.info): website for the International Association for Scientific Spiritualism, with bilingual camp registration
-- [NPG Foods & Feeds](https://npgfoodsfeeds.com): trilingual (English, Hindi, Punjabi) site for a cattle-feed manufacturer
-- [Maarks & Associates LLP](https://maarksindia.com): website for a professional services firm
-- [The Bar Wardrobe](https://www.thebarwardrobe.com): Nuxt storefront *(launching soon)*
-- My Frame: website for a framing business, with an online frame designer
+| Website | Stack | What it does |
+| --- | --- | --- |
+| [PirtTrip](https://pirttrip.com) | Nuxt · Supabase · Railway | Search and compare group trips, packages and deals |
+| [IASS](https://iass.info) | WordPress | Site for the International Association for Scientific Spiritualism, with bilingual camp registration |
+| [NPG Foods & Feeds](https://npgfoodsfeeds.com) | WordPress | Trilingual (English, Hindi, Punjabi) site for a cattle and buffalo feed manufacturer |
+| [Maarks & Associates LLP](https://maarksindia.com) | PHP · CodeIgniter | Business portal for loan processing, pre-sanction checks, invoicing and current accounts |
+| [The Bar Wardrobe](https://www.thebarwardrobe.com) *(launching soon)* | Nuxt | Online storefront |
+| My Frame | HTML · CSS · JS | Website for a framing business, with an online frame designer |
 
 ## GitHub stats
 
