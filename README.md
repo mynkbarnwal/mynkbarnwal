@@ -36,7 +36,7 @@ Senior Mobile & Full-stack Engineer with **13+ years** of experience building, s
 
 | Website | Stack | What it does |
 | --- | --- | --- |
-| [PirtTrip](https://pirttrip.com) | Nuxt · Supabase · Railway | Search and compare group trips, packages and deals |
+| [PirtTrip](https://pirttrip.com) | Nuxt · PostgreSQL · Railway | Search and compare group trips, packages and deals |
 | [IASS](https://iass.info) | WordPress | Site for the International Association for Scientific Spiritualism, with bilingual camp registration |
 | [NPG Foods & Feeds](https://npgfoodsfeeds.com) | WordPress | Trilingual (English, Hindi, Punjabi) site for a cattle and buffalo feed manufacturer |
 | [Maarks & Associates LLP](https://maarksindia.com) | PHP · CodeIgniter | Business portal for loan processing, pre-sanction checks, invoicing and current accounts |
