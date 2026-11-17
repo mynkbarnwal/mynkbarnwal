@@ -17,12 +17,27 @@ Senior Mobile & Full-stack Engineer with **13+ years** of experience building, s
 - **Education**: Computer Science graduate
 - **Pronouns**: He/Him
 
-## Live / beta apps
-- [PeerPicks](https://apple.co/4cSBee0)
-- [Ploff](https://apple.co/3xSpjhB)
-- [HOP](https://apps.apple.com/in/app/hop/id1571993960)
-- [IASS](https://apps.apple.com/in/app/iass/id1459625250)
-- [MahakaalVaani](https://apps.apple.com/in/app/mahakal-vaani/id1492150303)
+## Apps on the App Store
+
+| App | Platform | What it does |
+| --- | --- | --- |
+| [Clipster Clipboard Manager](https://apps.apple.com/app/id6753877328) | macOS · iOS · iPadOS | Clipboard history for text, links and images, synced across devices |
+| [File Mount: SFTP & FTP Drive](https://apps.apple.com/app/id6786581399) | macOS | Mounts SFTP and FTP servers in the Finder sidebar, like a local disk |
+| [Private Media Cleaner](https://apps.apple.com/app/id6753859494) | iOS | Strips EXIF metadata (location, device, timestamps) from photos and videos |
+| [ScreenHalt](https://apps.apple.com/app/id6758957427) | iOS | Enforces daily screen-time and app-open limits with Apple's Screen Time APIs |
+| [PeerPicks](https://apps.apple.com/app/id6450222076) | iOS | Social app for sharing sports picks and insights |
+| [Quicky Services](https://apps.apple.com/app/id6740628806) | iOS | Marketplace for booking verified local services |
+| [Quicky Client](https://apps.apple.com/app/id6450353270) | iOS | GPS ride and delivery booking with mobile-money payments |
+| [IASS](https://apps.apple.com/app/id1459625250) | iOS | Community app for the International Association for Scientific Spiritualism |
+| [Mahakal Vaani](https://apps.apple.com/app/id1492150303) | iOS | Numerology readings, blog and expert consultations |
+| [Ploff](https://apple.co/3xSpjhB) *(TestFlight beta)* | iOS | Errands marketplace: post jobs and receive bids |
+
+## Websites
+
+- [NPG Foods & Feeds](https://npgfoodsfeeds.com): trilingual (English, Hindi, Punjabi) site for a cattle-feed manufacturer
+- [Maarks & Associates LLP](https://maarksindia.com): website for a professional services firm
+- [The Bar Wardrobe](https://www.thebarwardrobe.com): Nuxt storefront *(launching soon)*
+- My Frame: website for a framing business, with an online frame designer
 
 ## GitHub stats
 
