@@ -11,7 +11,7 @@
 Senior Mobile & Full-stack Engineer with **13+ years** of experience building, shipping, and maintaining production apps. iOS is my home turf (**Swift**, **SwiftUI**, **UIKit**, **Objective-C**), and today I build the whole product too: web frontends, backends, databases, and cross-platform apps with **Flutter**. I care about clean architecture, performance, and delightful UX.
 
 - **iOS**: Swift, SwiftUI, UIKit, Objective-C, Core Data, networking layers, testing
-- **Web / Backend**: TypeScript, Vue / Nuxt, Node.js, REST APIs, PostgreSQL, Supabase, Prisma / Drizzle
+- **Web / Backend**: TypeScript, Vue / Nuxt, Node.js, PHP (Laravel, CodeIgniter), WordPress, REST APIs, PostgreSQL, MySQL, Supabase, Prisma / Drizzle
 - **Cross-platform**: Flutter / Dart
 - **DevOps**: Docker, Railway, CI/CD, App Store delivery
 - **Education**: Computer Science graduate
@@ -25,10 +25,10 @@ Senior Mobile & Full-stack Engineer with **13+ years** of experience building, s
 | [File Mount: SFTP & FTP Drive](https://apps.apple.com/app/id6786581399) | macOS | Mounts SFTP and FTP servers in the Finder sidebar, like a local disk |
 | [Private Media Cleaner](https://apps.apple.com/app/id6753859494) | iOS | Strips EXIF metadata (location, device, timestamps) from photos and videos |
 | [ScreenHalt](https://apps.apple.com/app/id6758957427) | iOS | Enforces daily screen-time and app-open limits with Apple's Screen Time APIs |
-| [PeerPicks](https://apps.apple.com/app/id6450222076) | iOS | Social app for sharing sports picks and insights |
+| [PeerPicks](https://apps.apple.com/app/id6450222076) | iOS | Social sports-betting app for sharing picks and insights |
 | [Quicky Services](https://apps.apple.com/app/id6740628806) | iOS | Marketplace for booking verified local services |
 | [Quicky Client](https://apps.apple.com/app/id6450353270) | iOS | GPS ride and delivery booking with mobile-money payments |
-| [IASS](https://apps.apple.com/app/id1459625250) | iOS | Community app for the International Association for Scientific Spiritualism |
+| [IASS](https://apps.apple.com/app/id1459625250) | iOS | App for the International Association for Scientific Spiritualism |
 | [Mahakal Vaani](https://apps.apple.com/app/id1492150303) | iOS | Numerology readings, blog and expert consultations |
 | [Ploff](https://apple.co/3xSpjhB) *(TestFlight beta)* | iOS | Errands marketplace: post jobs and receive bids |
 
@@ -39,8 +39,8 @@ Senior Mobile & Full-stack Engineer with **13+ years** of experience building, s
 | [PirtTrip](https://pirttrip.com) | Nuxt · PostgreSQL · Railway | Search and compare group trips, packages and deals |
 | [IASS](https://iass.info) | WordPress | Site for the International Association for Scientific Spiritualism, with bilingual camp registration |
 | [NPG Foods & Feeds](https://npgfoodsfeeds.com) | WordPress | Trilingual (English, Hindi, Punjabi) site for a cattle and buffalo feed manufacturer |
-| [Maarks & Associates LLP](https://maarksindia.com) | PHP · CodeIgniter | Business portal for loan processing, pre-sanction checks, invoicing and current accounts |
-| [The Bar Wardrobe](https://www.thebarwardrobe.com) *(launching soon)* | Nuxt | Online storefront |
+| [Maarks & Associates LLP](https://maarksindia.com) *(login required)* | PHP · CodeIgniter | Business portal for loan processing, pre-sanction checks, invoicing and current accounts |
+| [The Bar Wardrobe](https://www.thebarwardrobe.com) *(launching soon)* | Nuxt · Laravel · MySQL | Online storefront with admin panel for products, inventory, coupons and payments |
 | My Frame | HTML · CSS · JS | Website for a framing business, with an online frame designer |
 
 ## GitHub stats
@@ -68,7 +68,7 @@ Senior Mobile & Full-stack Engineer with **13+ years** of experience building, s
 
 **Web / Backend**
 
-![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white) ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white) ![](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white) ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white) ![](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 **DevOps & Design**
 
