@@ -34,6 +34,8 @@ Senior Mobile & Full-stack Engineer with **13+ years** of experience building, s
 
 ## Websites
 
+- [PirtTrip](https://pirttrip.com): search and compare group trips, packages and deals (Nuxt, Supabase)
+- [IASS](https://iass.info): website for the International Association for Scientific Spiritualism, with bilingual camp registration
 - [NPG Foods & Feeds](https://npgfoodsfeeds.com): trilingual (English, Hindi, Punjabi) site for a cattle-feed manufacturer
 - [Maarks & Associates LLP](https://maarksindia.com): website for a professional services firm
 - [The Bar Wardrobe](https://www.thebarwardrobe.com): Nuxt storefront *(launching soon)*
